@@ -6,5 +6,4 @@
 
 <p>sem imagens por enquanto</p>
 
-!()()
 
