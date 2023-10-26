@@ -1,0 +1,29 @@
+{
+  "name": "wadyntecno/2023-pj-php",
+  "description": "clube full-stack professional",
+  "type": "cms",
+  "version": "0.12.7",
+  "keywords": [
+    "CMS",
+    "anchor",
+    "anchorcms"
+  ],
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "wadyntecno",
+      "email": "wadyntecno@gamil.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "app/helpers/constants.php",
+      "app/router/router.php",
+      "app/core/controller.php"
+    ],
+    "psr-4": {
+      "app\\": "app"
+    }
+  }
+}
