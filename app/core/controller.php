@@ -10,6 +10,7 @@ function controller($matchedUri, $params){
         throw new Exception('Controller '.$controller.' não existe');
     }
 
+
     $controllerInstance = new $controllerWithNamespace;
     if(!method_exists($controllerInstance, $method)){
         throw new Exception('O método não existe no controler: '.$controller);
