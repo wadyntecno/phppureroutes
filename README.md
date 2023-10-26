@@ -1,6 +1,6 @@
 # PROJETO DE ROTA EM PHP (em produção)
 
-## Para utilizar em qualquer inicio de processo existente
+## Para utilizar em qualquer processo existente
 
 ### Programação sem nenhuma outra função
 
