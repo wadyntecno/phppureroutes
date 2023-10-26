@@ -7,4 +7,4 @@ try {
   var_dump($e->getMessage());
 }
 
-echo  ' --dia lindo ' . CONTROLLER_PATH . '<hr/>';
+echo  ' --comando comum ' . CONTROLLER_PATH . '<hr/>';
