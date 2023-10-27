@@ -4,6 +4,22 @@
 
 ### Programação sem nenhuma outra função
 
-<p>sem imagens por enquanto</p>
+
+##### sem imagens
+
+<p>
+Modelo baseado em um CRUD
+<br>para rodar o projeto com php usar:
+<br>php -S localhost:5000 -t public
+<br>
+<br>Tarefas identificadas:
+</p>
+
+<ol>
+<li>Rotas</li>
+<li>Conexão</li>
+<li>Banco de dados</li>
+
+</ol>
 
 !()()

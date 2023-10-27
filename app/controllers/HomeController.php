@@ -9,7 +9,11 @@ class HomeController
   }
   public function index($params)
   {
-    var_dump($params);
-    die();
+    $user = all('users','*');
+    var_dump($user);
+    return  [
+      'view' => 'home.php',
+      'data' => ['titleView' => 'home']
+    ];
   }
 }

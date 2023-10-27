@@ -15,6 +15,6 @@ function controller($matchedUri, $params){
     if(!method_exists($controllerInstance, $method)){
         throw new Exception('O método não existe no controler: '.$controller);
     }
-    $controllerInstance->$method($params);
+    return $controllerInstance->$method($params);
 
 }

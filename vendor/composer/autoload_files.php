@@ -9,4 +9,6 @@ return array(
     'a2d4952d32eb59951889e4fc1bc2d157' => $baseDir . '/app/helpers/constants.php',
     '7dc87703bfa79079bc84d9c34def711a' => $baseDir . '/app/router/router.php',
     '8d3fe6e41e6fc466d822888f3bd804fe' => $baseDir . '/app/core/controller.php',
+    'a403bee75c1146b236eb082367a34dd4' => $baseDir . '/app/database/connect.php',
+    '9e909ab111f14964b47c5457d3904be5' => $baseDir . '/app/database/fetch.php',
 );
